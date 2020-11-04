@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="logintestdemo" Id="f5cfafa9-10f2-4882-ada5-2c504fcaafa8" Owner="" Priority="0" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="76541583-4bb5-4874-8a06-c2c0f3600886" Version="1.1" Url="http://ocsp.godaddy.com//MEIwQDA%2BMDwwOjAJBgUrDgMCGgUABBQdI2%2BOBkuXH93foRUj4a7lAr4rGwQUOpqFBxBnKLbv9r0FQW4gwZTaD94CAQc%3D" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+    <Request Method="GET" Guid="098e54db-30f8-45d1-8ce4-feb9110371d2" Version="1.1" Url="http://ocsp.godaddy.com//MEowSDBGMEQwQjAJBgUrDgMCGgUABBS2CA1fbGt26xPkOKX4ZguoUjM0TgQUQMK9J47MNIMwojPX%2B2yz8LQsgM4CCQD18CbxWi248w%3D%3D" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+    <Request Method="GET" Guid="eadc562c-0ac6-4acf-8c83-71ce88a580d8" Version="1.1" Url="https://cdn2.moneycorp.com/abF4cfM3jbBmpbOb" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="45f401920459995f" Value="hnKPdxa6Wi-LAVO9jCznhg1lUuWlZfJECpgMtbkKcySBjvJUfXWNgDcrExhuWyjgEhwx9VPzp_x69m3YGQgE2FC7DmDVuuHm4TV-zr3GapHCR88D-WMKDSZaMo8KLoP_k7ZlHfCgtqfMowf1R39nuOsTdMM" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="jf" Value="313e266c73623f396c376b35643a616162323b346338346a633135633334643130383163316b31" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="2f63fa2a-22f8-4040-a9c6-a4e449c7a3de" Version="1.1" Url="https://cdn2.moneycorp.com/lUX68XqnKQpkKheM" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="27cd0d459b871af1" Value="57hqyySVPwIyBm8ev-Q1UCSZc5GJZ9qt1VqO--ictLYPdI_2Tsn6D8p-xT4G5P6V1tz46KOHjwhfR8cw-7NshGESQn7d80agcp943I9hfunJI-avYlJEF3SiB8LAbH4DJXETWZAIR8hwBK0H_oQk1fzLWg0" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="jac" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="je" Value="342e26706d3d6c6f" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="46df42f3-d679-4952-bd14-fdd620d68b04" Version="1.1" Url="https://cdn2.moneycorp.com/LwAcyJYtrR5ijN78" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="9fac97936fa787dc" Value="hOOooBAOvMKA3urNl_lTrtIe2XtZhYF4wfP79VpE2G8BnblQan91lz5ImaY83jKaLoJ57kvpDhd_Ne6qFelPzsGQBN-955lEhBtWrYspHTfMHHxQt7s6D2AYfaYFh5IJl_eKOiFyryAzlVJq7BxRIaP9UTcMT9xTh3HF9lJxLV9eH1-5tnEaAR02HM_WYBwhxZPy4RqbXsdJKJ95BneTMg_vlIM" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="sera_parametere" Value="BUMLCFdVAlVWD1cEV1IOAVsGVQpTBgRXA1NVAVsBDlEGC1UAUFoABlAPUhERRwUNDUNDTRBHBncQASYSVXAdVlNZRVwPB1hWW0IXElFwHVMhAxMOJ0cHA11ZF0MREQsgRgR0HFQmE1dcC11UUFcIV1MDVwkBA1FQUFNSBwcAAFZWBgMIVlcHVwUFUVYDDVtQVwAQVwwMVlYIVVcBW1daUVAGAF1UAAELURAORF8EQFcGBFQNBlUFClNXAVFWUQtQAlYECAVXBgBQV1FSAwxaBlAEVF1VVQwVVF9ZBlIGAFNFWl8ETlMTQ1wLXQ5bDQBCC1gLHwFfcEtFWgtFB0YeBhUOBwhFAFpACGENWQZbTxdFUFQEFwZPbFZXCFsAVVsPRVZCBFRQ" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="count" Value="0" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="max" Value="0" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="7e89b40f-9c1b-45af-b374-b4c1b12e296d" Version="1.1" Url="https://aa.online-metrix.net/fpc.swf" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="x-flash-version" Value="32,0,0,445" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="session" Value="f851dd64-192c-4644-a592-20507f74ed10" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="org" Value="ac9enyev" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="nu" Value="11775" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="fx" Value="3a312675726c3f687c74787138272f61646e3a2e6d676c6d7b636f72722c616f6d2f66702d2e66673d373a666e396935313b336162343e663231323b646466653760603839346436632e773d633334396b623d31373e643562343064" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="fy" Value="353e2626763d554946203b302e382c322c343c3526673f5f6b6e646f757122313026667471663d32343124667c73353b643d306739303b35326b333f32623939333660343032623231383364393230" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="45568f1f-face-4195-81d2-d94063619352" Version="1.1" Url="https://cdn2.moneycorp.com/crossdomain.xml" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="x-flash-version" Value="32,0,0,445" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="51e1e740-4235-4c36-9c02-3ade88768992" Version="1.1" Url="https://iecvlist.microsoft.com/ie11blocklist/1401746408/versionlist.xml" ThinkTime="2" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="If-Modified-Since" Value="Tue, 20 Aug 2019 20:56:35 GMT" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="POST" Guid="11ce3db6-337e-44e9-ada0-7a652e1e733e" Version="1.1" Url="https://qa-ids.moneycorp.com/login/validateCredentials" ThinkTime="-5" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="application/json" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAHUAcwBlAHIAbgBhAG0AZQAiADoAIgBwAHUAcwBlAHIAMQAiACwAIgBwAGEAcwBzAHcAbwByAGQAIgA6ACIATQBvAG4AZQB5AGMAbwByAHAAMAAiACwAIgBtAG8AYgBpAGwAZQBPAHMAIgA6ACIAIgAsACIAdABoAHIAZQBhAHQATQBlAHQAcgBpAHgAVABvAGsAZQBuACIAOgAiAGYAOAA1ADEAZABkADYANAAtADEAOQAyAGMALQA0ADYANAA0AC0AYQA1ADkAMgAtADIAMAA1ADAANwBmADcANABlAGQAMQAwACIALAAiAHMAcwBvAEMAbABpAGUAbgB0AE4AYQBtAGUAIgA6ACIAaQBtAGEAbABpAEMAbABpAGUAbgB0ACIALAAiAGwAbwBnAGkAbgBEAGUAdgBpAGMAZQBTAG8AdQByAGMAZQAiADoAIgBiAHIAbwB3AHMAZQByAF8AYwBvAG0AcAB1AHQAZQByACIAfQA=</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="32b29d27-3894-4078-91fc-c4c3466bc5a9" Version="1.1" Url="https://cdn2.moneycorp.com/Oddwdc_sx8qEVxQJ" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="8e85fa6ec1614899" Value="kAOGCRRmGus5po2gRitC7YbLUPpo_MqXjF7BVw-1FBdwaHPWWZBrtIyHUBfjKEbuIMpzJcyw_MQVksPNLeDdc6wPqH31nQL0K5yLcWRb24JU0u0TftkPvj1fn3S0GisWj6c0rQuakR2DCK98hu06oc8ZYBrzCLUWNwiZSx5xMyxUY9w2ACFIE_zqn73zlElTIg4mpszWs78VAIH_Fpk" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="je" Value="3039382672643f267a647c3f343b3331332d7d6e646d64616c65642c373b32302d756e64676e696e65642e353130392f77666467666966656424373132322d756c666766696e65642e3d3930332d776e6c656e6b6c6d642e333330392d7d6c6c6766696e67662e353935302d7766646566696c656c2c3d3b31392d776e646d666966676c2e3539333b2f776e646566696c6d642c3630313925756666676e696c65642435393c3625776e6465646b6c65642c363036382d756e646766616e6d662e3d3235392d7d6e646d64616c65642c353235302d756e64676e696e6564" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="df61b281-2969-491e-899f-d7fc00ce7203" Version="1.1" Url="https://cdn.moneycorp.com/Babel/fonts/moneycorp/dotsfont.eot" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Origin" Value="https://qa2-login.moneycorp.com" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="f3a677ce-655e-48e3-974c-4cc59ec29ec9" Version="1.1" Url="https://cdn.moneycorp.com/Babel/fonts/moneycorp/dotsfont.woff" ThinkTime="2" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Origin" Value="https://qa2-login.moneycorp.com" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="POST" Guid="7c6199d0-3a92-45bd-b4a6-e6fab7efe35b" Version="1.1" Url="https://qa-ids.moneycorp.com/login/completeLogin" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="application/json" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAGwAbwBnAGkAbgBUAG8AawBlAG4AIgA6ACIANwA0AGUAZQA3AGYANQA0ADYAOAA4AGEANAA2AGYAMQA4AGYANgA3AGIANABkAGMAYwBiADAAZQBkADkANgA4ACIALAAiAHIAZQB0AHUAcgBuAFUAcgBsACIAOgAiACUAMgBGAGMAbwBuAG4AZQBjAHQAJQAyAEYAYQB1AHQAaABvAHIAaQB6AGUAJQAyAEYAYwBhAGwAbABiAGEAYwBrACUAMwBGAGMAbABpAGUAbgB0AF8AaQBkACUAMwBEAGkAbQBhAGwAaQBDAGwAaQBlAG4AdAAlADIANgByAGUAZABpAHIAZQBjAHQAXwB1AHIAaQAlADMARABoAHQAdABwAHMAJQAyADUAMwBBACUAMgA1ADIARgAlADIANQAyAEYAcQBhAC0AaQBwAC4AbQBvAG4AZQB5AGMAbwByAHAALgBjAG8AbQAlADIANQAyAEYAYwBhAGwAbABiAGEAYwBrAC4AaAB0AG0AbAAlADIANgByAGUAcwBwAG8AbgBzAGUAXwB0AHkAcABlACUAMwBEAHQAbwBrAGUAbgAlADIANQAyADAAaQBkAF8AdABvAGsAZQBuACUAMgA2AHMAYwBvAHAAZQAlADMARABvAHAAZQBuAGkAZAAlADIANQAyADAAaQBtAGEAbABpAF8AYQBwAGkAJQAyADUAMgAwAG0AYQBsAGkAcABvAF8AYQBwAGkAJQAyADUAMgAwAHAAaABpAGwAYQB5AG8AXwBhAHAAaQAlADIANQAyADAAdQBzAGUAcgBfAHAAcgBvAGYAaQBsAGUAJQAyADYAcwB0AGEAdABlACUAMwBEAGIAZgAwADYAYgA2AGIANQBkAGUAOABjADQAOAAxADMAYgA3AGQAYQA0AGEAMwBlADUAMQA3ADQAZQBiADgAYgAlADIANgBuAG8AbgBjAGUAJQAzAEQANAAxADgAYgA3AGEAYgBlADYANQAxAGQANAAwADMAMgBiAGMAOABiADQANgA2ADYANAAyAGUAMQAzADgANQA3ACUAMgA2AGEAYwByAF8AdgBhAGwAdQBlAHMAJQAzAEQAdgBhAGwAaQBkAGEAdABlAFIAZQBmAGUAcgByAGUAcgAlADIANQAyADYAaQBzAFYAYQBsAGkAZABSAGUAZgBlAHIAcgBlAHIAIgAsACIAYwBoAGEAcgBhAGMAdABlAHIAMQAiADoAIgBhACIALAAiAGMAaABhAHIAYQBjAHQAZQByADIAIgA6ACIAYQAiACwAIgBjAGgAYQByAGEAYwB0AGUAcgAzACIAOgAiAGEAIgAsACIAcQB1AGUAcwB0AGkAbwBuACIAOgB7ACIAaABtAGEAYwAiADoAIgBqAHEATgB2AGgAbQBwADQAaABWAHYAUwA0AEgATQBIAFUAbABuAG0AdQB5ADQASgAzAGgAOAA2AFgAMgBxAHoAWgBvAFAAawBiAGEAdgBxAHQAWABRAD0AIgAsACIAcQB1AGUAcwB0AGkAbwBuAEkAZAAiADoAIgBRADYAIgAsACIAcQB1AGUAcwB0AGkAbwBuAFQAZQB4AHQAIgA6ACIAVwBoAGEAdAAgAGkAcwAgAHkAbwB1AHIAIABwAGwAYQBjAGUAIABvAGYAIABiAGkAcgB0AGgAPwAiACwAIgByAGUAcQB1AGkAcgBlAGQAQwBoAGEAcgBhAGMAdABlAHIASQBuAGQAaQBjAGUAcwAiADoAWwAyACwAMwAsADQAXQB9AH0A</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="cc36d87b-a4d6-4c92-bade-9ab60b6fbbad" Version="1.1" Url="https://cdn2.moneycorp.com/D8nq-ypo8PtYZluK" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="35ac1e4ccf27e115" Value="bF3tpmJjwfpgdbtyyv6kSxgCOPwIO6kZ4Djt_l--Hp1QbXhE3kqEyARXAICT0dx9Brua8u4Ds_shbNceOcLDkx1y00C2QNsXIf60q1kScjJSPg9R5Rs0c7W8NMnwkoghZxOnKCJa3X8oTr2hFzWsjjsaPQ8" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="tp" Value="14560" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="0f41a887-1279-4043-8201-a5560e6eed54" Version="1.1" Url="https://qa-ids.moneycorp.com/connect/authorize/callback" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="client_id" Value="imaliClient" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="redirect_uri" Value="https://qa-ip.moneycorp.com/callback.html" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="response_type" Value="token id_token" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="scope" Value="openid imali_api malipo_api philayo_api user_profile" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="state" Value="bf06b6b5de8c4813b7da4a3e5174eb8b" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="418b7abe651d4032bc8b466642e13857" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="acr_values" Value="validateReferrer&amp;isValidReferrer" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="83a32144-137e-43da-8c67-98e624a0815d" Version="1.1" Url="https://qa-ip.moneycorp.com/callback.html" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="03553261-ed72-46ed-8f15-8404f8788484" Version="1.1" Url="https://qa-ids.moneycorp.com/.well-known/openid-configuration/jwks" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="04181c74-8191-415e-accb-36e0cb2df6d3" Version="1.1" Url="https://qa-ids.moneycorp.com/connect/userinfo" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="ffebb386-d523-4032-8e6a-1bccf73f7fd4" Version="1.1" Url="https://qa-ids.moneycorp.com/connect/checksession" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="41cc0561-90f3-42fc-96cb-03d0ad6dae39" Version="1.1" Url="https://qa-imali.moneycorp.com/corporate/branding" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Pragma" Value="no-cache" />
+        <Header Name="Expires" Value="-1" />
+        <Header Name="X-XSS-Protection" Value="1" />
+        <Header Name="X-Frame-Options" Value="SAMEORIGIN" />
+        <Header Name="ActiveClientId" Value="478773" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="8e219c14-3112-4d7f-87c3-5e2c30169ed3" Version="1.1" Url="https://qa-business.moneycorp.com/overview" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="POST" Guid="8b35505a-8454-4da3-82aa-e8e63428409e" Version="1.1" Url="https://qa-clientdiagnostics.moneycorp.com/log" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="application/json" />
+        <Header Name="X-Origin" Value="Imali App" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAGkAcwBFAHIAcgBvAHIAIgA6AGYAYQBsAHMAZQAsACIAYQBwAHAATgBhAG0AZQAiADoAIgBJAG0AYQBsAGkAIABBAHAAcAAiACwAIgBtAGUAcwBzAGEAZwBlACIAOgB7ACIAYwBhAGwAbABiAGEAYwBrAFIAZQBkAGkAcgBlAGMAdABVAHIAbAAiADoAIgBoAHQAdABwAHMAOgAvAC8AcQBhAC0AYgB1AHMAaQBuAGUAcwBzAC4AbQBvAG4AZQB5AGMAbwByAHAALgBjAG8AbQAvAG8AdgBlAHIAdgBpAGUAdwAiACwAIgBhAHAAcABsAGkAYwBhAHQAaQBvAG4AUwBvAHUAcgBjAGUAIgA6ACIAMQAiACwAIgBjAHIAbQBDAG8AbgB0AGEAYwB0AEkAZAAiADoAIgBjADEAMwAxAGEAMwA2AGQALQA0ADMAYwBlAC0AZQA5ADEAMQAtADkAMQA2ADMALQAwADAANQAwADUANgA4ADAANgA1ADAANwAiACwAIgBuAG8AbgBjAGUAIgA6ACIANAAxADgAYgA3AGEAYgBlADYANQAxAGQANAAwADMAMgBiAGMAOABiADQANgA2ADYANAAyAGUAMQAzADgANQA3ACIALAAiAHQAaQBtAGUAcwB0AGEAbQBwACIAOgAxADYAMAAzADIAOAA1ADgANgAxADIAOQA5ACwAIgBsAG8AYwBhAGwAVABpAG0AZQBTAHQAcgBpAG4AZwAiADoAIgBXAGUAZAAgAE8AYwB0ACAAMgAxACAAMgAwADIAMAAgADEANAA6ADEAMQA6ADAAMQAgAEcATQBUACsAMAAxADAAMAAgACgARwBNAFQAIABEAGEAeQBsAGkAZwBoAHQAIABUAGkAbQBlACkAIgAsACIAbQBlAHMAcwBhAGcAZQAiADoAIgBTAHUAYwBjAGUAcwBzAGYAdQBsAGwAeQAgAE8AYgB0AGEAaQBuAGUAZAAgAFQAbwBrAGUAbgAiACwAIgB0AGgAcgBlAGEAdABNAGUAdAByAGkAeABUAG8AawBlAG4AIgA6ACIAVABNAFgAXwBUAE8ASwBFAE4AXwBNAEkAUwBTAEkATgBHACIALAAiAGMAcgBtAEEAYwBjAG8AdQBuAHQARwB1AGkAZAAiADoAIgBDAFIATQBfAEEAQwBDAE8AVQBOAFQAXwBHAFUASQBEACIALAAiAG4AYQB2AGkAZwBhAHQAbwByAFUAcwBlAHIAQQBnAGUAbgB0ACIAOgAiAE0AbwB6AGkAbABsAGEALwA1AC4AMAAgACgAVwBpAG4AZABvAHcAcwAgAE4AVAAgADEAMAAuADAAOwAgAFcATwBXADYANAA7ACAAVAByAGkAZABlAG4AdAAvADcALgAwADsAIAAuAE4ARQBUADQALgAwAEMAOwAgAC4ATgBFAFQANAAuADAARQA7ACAALgBOAEUAVAAgAEMATABSACAAMgAuADAALgA1ADAANwAyADcAOwAgAC4ATgBFAFQAIABDAEwAUgAgADMALgAwAC4AMwAwADcAMgA5ADsAIAAuAE4ARQBUACAAQwBMAFIAIAAzAC4ANQAuADMAMAA3ADIAOQA7ACAAWgBvAG8AbQAgADMALgA2AC4AMAA7ACAAWgBvAG8AbQAgADMALgA2AC4AMAA7ACAAcgB2ADoAMQAxAC4AMAApACAAbABpAGsAZQAgAEcAZQBjAGsAbwAiACwAIgBuAGEAdgBpAGcAYQB0AG8AcgBBAHAAcABWAGUAcgBzAGkAbwBuACIAOgAiADUALgAwACAAKABXAGkAbgBkAG8AdwBzACAATgBUACAAMQAwAC4AMAA7ACAAVwBPAFcANgA0ADsAIABUAHIAaQBkAGUAbgB0AC8ANwAuADAAOwAgAC4ATgBFAFQANAAuADAAQwA7ACAALgBOAEUAVAA0AC4AMABFADsAIAAuAE4ARQBUACAAQwBMAFIAIAAyAC4AMAAuADUAMAA3ADIANwA7ACAALgBOAEUAVAAgAEMATABSACAAMwAuADAALgAzADAANwAyADkAOwAgAC4ATgBFAFQAIABDAEwAUgAgADMALgA1AC4AMwAwADcAMgA5ADsAIABaAG8AbwBtACAAMwAuADYALgAwADsAIABaAG8AbwBtACAAMwAuADYALgAwADsAIAByAHYAOgAxADEALgAwACkAIABsAGkAawBlACAARwBlAGMAawBvACIALAAiAG4AYQB2AGkAZwBhAHQAbwByAEEAcABwAE4AYQBtAGUAIgA6ACIATgBlAHQAcwBjAGEAcABlACIALAAiAG4AYQB2AGkAZwBhAHQAbwByAEMAbwBvAGsAaQBlAHMARQBuAGEAYgBsAGUAZAAiADoAdAByAHUAZQAsACIAbgBhAHYAaQBnAGEAdABvAHIATABvAGMAYQBsAGUAIgA6ACIAZQBuAC0ARwBCACIALAAiAG4AYQB2AGkAZwBhAHQAbwByAFMAYwByAGUAZQBuAFMAaQB6AGUAIgA6ACIAMgA1ADYAMAB4ADEANAA0ADAAIgAsACIAYgB1AG4AZABsAGUAVgBlAHIAcwBpAG8AbgAiADoAIgAvAHMAdABhAHQAaQBjAC8AagBzAC8AYQB1AHQAaABDAGEAbABsAGIAYQBjAGsALgAwADIANgBiAGYAYgBhADUALgBqAHMAIgAsACIAYgByAG8AdwBzAGUAcgBOAGEAbQBlACIAOgAiAEkARQAiACwAIgBiAHIAbwB3AHMAZQByAFYAZQByAHMAaQBvAG4AIgA6ACIAMQAxAC4AMAAiACwAIgBvAHMATgBhAG0AZQAiADoAIgBXAGkAbgBkAG8AdwBzACIALAAiAG8AcwBWAGUAcgBzAGkAbwBuACIAOgAiADEAMAAiACwAIgBkAGUAdgBpAGMAZQBNAG8AZABlAGwAIgA6ACIARABFAFYASQBDAEUAXwBNAE8ARABFAEwAXwBNAEkAUwBTAEkATgBHACIALAAiAGQAZQB2AGkAYwBlAFYAZQBuAGQAbwByACIAOgAiAEQARQBWAEkAQwBFAF8AVgBFAE4ARABPAFIAXwBNAEkAUwBTAEkATgBHACIALAAiAGQAZQB2AGkAYwBlAFQAeQBwAGUAIgA6ACIARABFAFYASQBDAEUAXwBUAFkAUABFAF8ATQBJAFMAUwBJAE4ARwAiAH0ALAAiAGwAbwBnAGcAZQByACIAOgAiAGMAbwBtAG0AbwBuAC0AdQB0AGkAbABzACIALAAiAGwAbwBnAEwAZQB2AGUAbAAiADoAMAAsACIAbABvAGcATQBlAHQAaABvAGQAIgA6ACIARABFAEIAVQBHACIAfQA=</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="3e986db1-4269-4e73-a5c6-81c8d45ee435" Version="1.1" Url="https://qa-business.moneycorp.com/version.txt" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="913df03b-819a-4364-b720-23ddb1648c8d" Version="1.1" Url="https://qa-cdn.moneycorp.com/babel-cms/en-GB.json" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="If-Modified-Since" Value="Wed, 21 Oct 2020 14:00:00 GMT" />
+        <Header Name="If-None-Match" Value="W/&quot;0303577b2a7d61:0&quot;" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="POST" Guid="c6cbc53b-1cfb-44d1-883f-14f64a62fcb9" Version="1.1" Url="https://www.google-analytics.com/j/collect" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="text/plain" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="v" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_v" Value="j86" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="a" Value="2018986191" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="t" Value="pageview" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_s" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="dl" Value="https://qa-business.moneycorp.com/overview" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="dr" Value="https://qa-ip.moneycorp.com/callback.html" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="ul" Value="en-gb" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="de" Value="utf-8" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="sd" Value="24-bit" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="sr" Value="2560x1440" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="vp" Value="1344x449" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="je" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="fl" Value="32.0 r0" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_u" Value="QAGAAAQAAAAAAC~" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="jid" Value="2018684273" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="gjid" Value="2096452735" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="cid" Value="2053285225.1587650518" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="tid" Value="UA-5575613-2" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_gid" Value="2041461375.1603285838" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_r" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="2wg9u15336PNZ" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="z" Value="1109956716" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="7872aa4d-7471-4916-9224-a8e846701b42" Version="1.1" Url="https://www.google-analytics.com/j/collect" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="text/plain" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="v" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_v" Value="j86" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="a" Value="2018986191" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="t" Value="pageview" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_s" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="dl" Value="https://qa-business.moneycorp.com/overview" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="dr" Value="https://qa-ip.moneycorp.com/callback.html" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="ul" Value="en-gb" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="de" Value="utf-8" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="sd" Value="24-bit" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="sr" Value="2560x1440" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="vp" Value="1344x449" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="je" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="fl" Value="32.0 r0" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_u" Value="QAGAAEQAAAAAAC~" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="jid" Value="147932560" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="gjid" Value="1111787655" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="cid" Value="2053285225.1587650518" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="tid" Value="UA-5575613-47" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_gid" Value="2041461375.1603285838" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_r" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="2wg9u15336PNZ" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="z" Value="1313662983" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="7f56154c-d61c-4eb8-abbd-66ac3e849c8d" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1052657741/" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1603285862894" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="9" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1603285862894" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="resp" Value="GooglemKTybQhCsO" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="1440" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="2560" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="1387" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="2560" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="3" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="60" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="2" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="4" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="2wg9u1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="ig" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https://qa-business.moneycorp.com/overview" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https://qa-ip.moneycorp.com/callback.html" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="hn" Value="www.googleadservices.com" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="07291f4f-e528-4f3a-9a80-77a2f8b849e0" Version="1.1" Url="https://stats.g.doubleclick.net/j/collect" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="text/plain" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="t" Value="dc" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="aip" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_r" Value="3" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_v" Value="j86" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="tid" Value="UA-5575613-2" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="cid" Value="2053285225.1587650518" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="jid" Value="2018684273" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="gjid" Value="2096452735" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_gid" Value="2041461375.1603285838" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_u" Value="QAGAAAAAAAAAAC~" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="z" Value="2025473282" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="0913f7f5-5bcb-4b6c-bdc8-11ee7fa9ecd7" Version="1.1" Url="https://stats.g.doubleclick.net/j/collect" ThinkTime="4" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="text/plain" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="t" Value="dc" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="aip" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_r" Value="3" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_v" Value="j86" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="tid" Value="UA-5575613-47" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="cid" Value="2053285225.1587650518" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="jid" Value="147932560" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="gjid" Value="1111787655" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_gid" Value="2041461375.1603285838" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="_u" Value="QAGAAEQAAAAAAC~" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="z" Value="1080324400" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="132ac16f-696b-4338-b721-969963713ac1" Version="1.1" Url="https://qa-ids.moneycorp.com/connect/authorize" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="client_id" Value="imaliClient" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="redirect_uri" Value="https://qa-business.moneycorp.com/callback.html" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="response_type" Value="token id_token" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="scope" Value="openid imali_api malipo_api philayo_api user_profile" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="state" Value="be7676792f51426ba7e8d6ae7c4d398f" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="nonce" Value="9447b05f756844e8b56aa111e1dd4e41" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="acr_values" Value="validateReferrer&amp;isValidReferrer" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="68c5c167-a271-4207-88bc-8b1392d280a7" Version="1.1" Url="https://qa-business.moneycorp.com/callback.html" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="5c542236-fe75-46c1-bd85-71c52535f56c" Version="1.1" Url="https://mie.wearematterkind.com/utag/preview.html" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="If-Modified-Since" Value="Sat, 18 May 2019 00:38:03 GMT" />
+        <Header Name="If-None-Match" Value="&quot;885d1835b67454ba82b322542c09e5cd-gzip&quot;" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="ec819685-b552-41a0-adb6-6b6ba149a15a" Version="1.1" Url="https://qa-ids.moneycorp.com/connect/userinfo" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="c33cf857-e06d-4507-b892-9ceddab771fe" Version="1.1" Url="https://qa-ids.moneycorp.com/connect/checksession" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="3fd71588-3f89-4fad-a8c0-f5072d460976" Version="1.1" Url="https://qa-imali.moneycorp.com/corporate/branding" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Pragma" Value="no-cache" />
+        <Header Name="Expires" Value="-1" />
+        <Header Name="X-XSS-Protection" Value="1" />
+        <Header Name="X-Frame-Options" Value="SAMEORIGIN" />
+        <Header Name="ActiveClientId" Value="478773" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="b6edf859-512a-4279-817c-4d7998654e67" Version="1.1" Url="https://qa-business.moneycorp.com/overview" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="If-Modified-Since" Value="Wed, 21 Oct 2020 09:54:52 GMT" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="POST" Guid="55fabc1e-444b-40d6-a22f-d9dab6879f06" Version="1.1" Url="https://qa-clientdiagnostics.moneycorp.com/log" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="application/json" />
+        <Header Name="X-Origin" Value="Imali App" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAGkAcwBFAHIAcgBvAHIAIgA6AGYAYQBsAHMAZQAsACIAYQBwAHAATgBhAG0AZQAiADoAIgBJAG0AYQBsAGkAIABBAHAAcAAiACwAIgBtAGUAcwBzAGEAZwBlACIAOgB7ACIAYwBhAGwAbABiAGEAYwBrAFIAZQBkAGkAcgBlAGMAdABVAHIAbAAiADoAIgBoAHQAdABwAHMAOgAvAC8AcQBhAC0AYgB1AHMAaQBuAGUAcwBzAC4AbQBvAG4AZQB5AGMAbwByAHAALgBjAG8AbQAvAG8AdgBlAHIAdgBpAGUAdwAiACwAIgBwAGEAcgB0AG4AZQByAE4AYQBtAGUAIgA6ACIAbQBvAG4AZQB5AGMAbwByAHAAIgAsACIAYQBwAHAAbABpAGMAYQB0AGkAbwBuAFMAbwB1AHIAYwBlACIAOgAiADEAIgAsACIAYwByAG0AQwBvAG4AdABhAGMAdABJAGQAIgA6ACIAYwAxADMAMQBhADMANgBkAC0ANAAzAGMAZQAtAGUAOQAxADEALQA5ADEANgAzAC0AMAAwADUAMAA1ADYAOAAwADYANQAwADcAIgAsACIAbgBvAG4AYwBlACIAOgAiADkANAA0ADcAYgAwADUAZgA3ADUANgA4ADQANABlADgAYgA1ADYAYQBhADEAMQAxAGUAMQBkAGQANABlADQAMQAiACwAIgB0AGkAbQBlAHMAdABhAG0AcAAiADoAMQA2ADAAMwAyADgANQA4ADYAOQA4ADEANgAsACIAbABvAGMAYQBsAFQAaQBtAGUAUwB0AHIAaQBuAGcAIgA6ACIAVwBlAGQAIABPAGMAdAAgADIAMQAgADIAMAAyADAAIAAxADQAOgAxADEAOgAwADkAIABHAE0AVAArADAAMQAwADAAIAAoAEcATQBUACAARABhAHkAbABpAGcAaAB0ACAAVABpAG0AZQApACIALAAiAG0AZQBzAHMAYQBnAGUAIgA6ACIAUwB1AGMAYwBlAHMAcwBmAHUAbABsAHkAIABPAGIAdABhAGkAbgBlAGQAIABUAG8AawBlAG4AIgAsACIAdABoAHIAZQBhAHQATQBlAHQAcgBpAHgAVABvAGsAZQBuACIAOgAiAFQATQBYAF8AVABPAEsARQBOAF8ATQBJAFMAUwBJAE4ARwAiACwAIgBjAHIAbQBBAGMAYwBvAHUAbgB0AEcAdQBpAGQAIgA6ACIAQwBSAE0AXwBBAEMAQwBPAFUATgBUAF8ARwBVAEkARAAiACwAIgBuAGEAdgBpAGcAYQB0AG8AcgBVAHMAZQByAEEAZwBlAG4AdAAiADoAIgBNAG8AegBpAGwAbABhAC8ANQAuADAAIAAoAFcAaQBuAGQAbwB3AHMAIABOAFQAIAAxADAALgAwADsAIABXAE8AVwA2ADQAOwAgAFQAcgBpAGQAZQBuAHQALwA3AC4AMAA7ACAALgBOAEUAVAA0AC4AMABDADsAIAAuAE4ARQBUADQALgAwAEUAOwAgAC4ATgBFAFQAIABDAEwAUgAgADIALgAwAC4ANQAwADcAMgA3ADsAIAAuAE4ARQBUACAAQwBMAFIAIAAzAC4AMAAuADMAMAA3ADIAOQA7ACAALgBOAEUAVAAgAEMATABSACAAMwAuADUALgAzADAANwAyADkAOwAgAFoAbwBvAG0AIAAzAC4ANgAuADAAOwAgAFoAbwBvAG0AIAAzAC4ANgAuADAAOwAgAHIAdgA6ADEAMQAuADAAKQAgAGwAaQBrAGUAIABHAGUAYwBrAG8AIgAsACIAbgBhAHYAaQBnAGEAdABvAHIAQQBwAHAAVgBlAHIAcwBpAG8AbgAiADoAIgA1AC4AMAAgACgAVwBpAG4AZABvAHcAcwAgAE4AVAAgADEAMAAuADAAOwAgAFcATwBXADYANAA7ACAAVAByAGkAZABlAG4AdAAvADcALgAwADsAIAAuAE4ARQBUADQALgAwAEMAOwAgAC4ATgBFAFQANAAuADAARQA7ACAALgBOAEUAVAAgAEMATABSACAAMgAuADAALgA1ADAANwAyADcAOwAgAC4ATgBFAFQAIABDAEwAUgAgADMALgAwAC4AMwAwADcAMgA5ADsAIAAuAE4ARQBUACAAQwBMAFIAIAAzAC4ANQAuADMAMAA3ADIAOQA7ACAAWgBvAG8AbQAgADMALgA2AC4AMAA7ACAAWgBvAG8AbQAgADMALgA2AC4AMAA7ACAAcgB2ADoAMQAxAC4AMAApACAAbABpAGsAZQAgAEcAZQBjAGsAbwAiACwAIgBuAGEAdgBpAGcAYQB0AG8AcgBBAHAAcABOAGEAbQBlACIAOgAiAE4AZQB0AHMAYwBhAHAAZQAiACwAIgBuAGEAdgBpAGcAYQB0AG8AcgBDAG8AbwBrAGkAZQBzAEUAbgBhAGIAbABlAGQAIgA6AHQAcgB1AGUALAAiAG4AYQB2AGkAZwBhAHQAbwByAEwAbwBjAGEAbABlACIAOgAiAGUAbgAtAEcAQgAiACwAIgBuAGEAdgBpAGcAYQB0AG8AcgBTAGMAcgBlAGUAbgBTAGkAegBlACIAOgAiADIANQA2ADAAeAAxADQANAAwACIALAAiAGIAdQBuAGQAbABlAFYAZQByAHMAaQBvAG4AIgA6ACIALwBzAHQAYQB0AGkAYwAvAGoAcwAvAGEAdQB0AGgAQwBhAGwAbABiAGEAYwBrAC4AMwAwADEAZABkADYAYwAzAC4AagBzACIALAAiAGIAcgBvAHcAcwBlAHIATgBhAG0AZQAiADoAIgBJAEUAIgAsACIAYgByAG8AdwBzAGUAcgBWAGUAcgBzAGkAbwBuACIAOgAiADEAMQAuADAAIgAsACIAbwBzAE4AYQBtAGUAIgA6ACIAVwBpAG4AZABvAHcAcwAiACwAIgBvAHMAVgBlAHIAcwBpAG8AbgAiADoAIgAxADAAIgAsACIAZABlAHYAaQBjAGUATQBvAGQAZQBsACIAOgAiAEQARQBWAEkAQwBFAF8ATQBPAEQARQBMAF8ATQBJAFMAUwBJAE4ARwAiACwAIgBkAGUAdgBpAGMAZQBWAGUAbgBkAG8AcgAiADoAIgBEAEUAVgBJAEMARQBfAFYARQBOAEQATwBSAF8ATQBJAFMAUwBJAE4ARwAiACwAIgBkAGUAdgBpAGMAZQBUAHkAcABlACIAOgAiAEQARQBWAEkAQwBFAF8AVABZAFAARQBfAE0ASQBTAFMASQBOAEcAIgB9ACwAIgBsAG8AZwBnAGUAcgAiADoAIgBjAG8AbQBtAG8AbgAtAHUAdABpAGwAcwAiACwAIgBsAG8AZwBMAGUAdgBlAGwAIgA6ADAALAAiAGwAbwBnAE0AZQB0AGgAbwBkACIAOgAiAEQARQBCAFUARwAiAH0A</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="ce91027d-4356-4b44-bf2a-aad183ed3cf5" Version="1.1" Url="https://qa-cdn.moneycorp.com/babel-cms/en-GB.json" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="If-Modified-Since" Value="Wed, 21 Oct 2020 14:00:00 GMT" />
+        <Header Name="If-None-Match" Value="W/&quot;0303577b2a7d61:0&quot;" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="4902bd69-5690-494c-8182-918aeee519ad" Version="1.1" Url="https://qa-ids.moneycorp.com/connect/checksession" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="52c7b626-5788-4136-96c6-d23280adb9a3" Version="1.1" Url="https://qa-imali.moneycorp.com/corporate/userProfile" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Pragma" Value="no-cache" />
+        <Header Name="Expires" Value="-1" />
+        <Header Name="X-XSS-Protection" Value="1" />
+        <Header Name="X-Frame-Options" Value="SAMEORIGIN" />
+        <Header Name="ActiveClientId" Value="478773" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="d290e88a-2342-4fb9-8a44-4447a5ea41d1" Version="1.1" Url="https://qa-imali.moneycorp.com/corporate/tasks" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Pragma" Value="no-cache" />
+        <Header Name="Expires" Value="-1" />
+        <Header Name="X-XSS-Protection" Value="1" />
+        <Header Name="X-Frame-Options" Value="SAMEORIGIN" />
+        <Header Name="ActiveClientId" Value="478773" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="POST" Guid="b148c827-57e9-4ed6-b510-8f7a1e35a38c" Version="1.1" Url="https://qa-clientdiagnostics.moneycorp.com/log" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Content-Type" Value="application/json" />
+        <Header Name="X-Origin" Value="Imali App" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAGkAcwBFAHIAcgBvAHIAIgA6AGYAYQBsAHMAZQAsACIAYQBwAHAATgBhAG0AZQAiADoAIgBJAG0AYQBsAGkAIABBAHAAcAAiACwAIgBtAGUAcwBzAGEAZwBlACIAOgB7ACIAbQBvAG4AZQB5AGMAbwByAHAAQwByAG0AQQBjAGMAbwB1AG4AdABHAHUAaQBkACIAOgAiAGIAYwAzADEAYQAzADYAZAAtADQAMwBjAGUALQBlADkAMQAxAC0AOQAxADYAMwAtADAAMAA1ADAANQA2ADgAMAA2ADUAMAA3ACIALAAiAHAAYQByAHQAbgBlAHIATgBhAG0AZQAiADoAIgBtAG8AbgBlAHkAYwBvAHIAcAAiACwAIgBhAHAAcABsAGkAYwBhAHQAaQBvAG4AUwBvAHUAcgBjAGUAIgA6ACIAMQAiACwAIgBjAHIAbQBDAG8AbgB0AGEAYwB0AEkAZAAiADoAIgBjADEAMwAxAGEAMwA2AGQALQA0ADMAYwBlAC0AZQA5ADEAMQAtADkAMQA2ADMALQAwADAANQAwADUANgA4ADAANgA1ADAANwAiACwAIgBuAG8AbgBjAGUAIgA6ACIAOQA0ADQANwBiADAANQBmADcANQA2ADgANAA0AGUAOABiADUANgBhAGEAMQAxADEAZQAxAGQAZAA0AGUANAAxACIALAAiAHQAaQBtAGUAcwB0AGEAbQBwACIAOgAxADYAMAAzADIAOAA1ADgANwA1ADMAOQA0ACwAIgBsAG8AYwBhAGwAVABpAG0AZQBTAHQAcgBpAG4AZwAiADoAIgBXAGUAZAAgAE8AYwB0ACAAMgAxACAAMgAwADIAMAAgADEANAA6ADEAMQA6ADEANQAgAEcATQBUACsAMAAxADAAMAAgACgARwBNAFQAIABEAGEAeQBsAGkAZwBoAHQAIABUAGkAbQBlACkAIgAsACIAbQBlAHMAcwBhAGcAZQAiADoAIgBJAG0AYQBsAGkAIABDAG8AcgBwAG8AcgBhAHQAZQAgAHMAdABhAHIAdABlAGQAIgAsACIAdABoAHIAZQBhAHQATQBlAHQAcgBpAHgAVABvAGsAZQBuACIAOgAiAFQATQBYAF8AVABPAEsARQBOAF8ATQBJAFMAUwBJAE4ARwAiACwAIgBjAHIAbQBBAGMAYwBvAHUAbgB0AEcAdQBpAGQAIgA6ACIAYgBjADMAMQBhADMANgBkAC0ANAAzAGMAZQAtAGUAOQAxADEALQA5ADEANgAzAC0AMAAwADUAMAA1ADYAOAAwADYANQAwADcAIgAsACIAbgBhAHYAaQBnAGEAdABvAHIAVQBzAGUAcgBBAGcAZQBuAHQAIgA6ACIATQBvAHoAaQBsAGwAYQAvADUALgAwACAAKABXAGkAbgBkAG8AdwBzACAATgBUACAAMQAwAC4AMAA7ACAAVwBPAFcANgA0ADsAIABUAHIAaQBkAGUAbgB0AC8ANwAuADAAOwAgAC4ATgBFAFQANAAuADAAQwA7ACAALgBOAEUAVAA0AC4AMABFADsAIAAuAE4ARQBUACAAQwBMAFIAIAAyAC4AMAAuADUAMAA3ADIANwA7ACAALgBOAEUAVAAgAEMATABSACAAMwAuADAALgAzADAANwAyADkAOwAgAC4ATgBFAFQAIABDAEwAUgAgADMALgA1AC4AMwAwADcAMgA5ADsAIABaAG8AbwBtACAAMwAuADYALgAwADsAIABaAG8AbwBtACAAMwAuADYALgAwADsAIAByAHYAOgAxADEALgAwACkAIABsAGkAawBlACAARwBlAGMAawBvACIALAAiAG4AYQB2AGkAZwBhAHQAbwByAEEAcABwAFYAZQByAHMAaQBvAG4AIgA6ACIANQAuADAAIAAoAFcAaQBuAGQAbwB3AHMAIABOAFQAIAAxADAALgAwADsAIABXAE8AVwA2ADQAOwAgAFQAcgBpAGQAZQBuAHQALwA3AC4AMAA7ACAALgBOAEUAVAA0AC4AMABDADsAIAAuAE4ARQBUADQALgAwAEUAOwAgAC4ATgBFAFQAIABDAEwAUgAgADIALgAwAC4ANQAwADcAMgA3ADsAIAAuAE4ARQBUACAAQwBMAFIAIAAzAC4AMAAuADMAMAA3ADIAOQA7ACAALgBOAEUAVAAgAEMATABSACAAMwAuADUALgAzADAANwAyADkAOwAgAFoAbwBvAG0AIAAzAC4ANgAuADAAOwAgAFoAbwBvAG0AIAAzAC4ANgAuADAAOwAgAHIAdgA6ADEAMQAuADAAKQAgAGwAaQBrAGUAIABHAGUAYwBrAG8AIgAsACIAbgBhAHYAaQBnAGEAdABvAHIAQQBwAHAATgBhAG0AZQAiADoAIgBOAGUAdABzAGMAYQBwAGUAIgAsACIAbgBhAHYAaQBnAGEAdABvAHIAQwBvAG8AawBpAGUAcwBFAG4AYQBiAGwAZQBkACIAOgB0AHIAdQBlACwAIgBuAGEAdgBpAGcAYQB0AG8AcgBMAG8AYwBhAGwAZQAiADoAIgBlAG4ALQBHAEIAIgAsACIAbgBhAHYAaQBnAGEAdABvAHIAUwBjAHIAZQBlAG4AUwBpAHoAZQAiADoAIgAyADUANgAwAHgAMQA0ADQAMAAiACwAIgBiAHUAbgBkAGwAZQBWAGUAcgBzAGkAbwBuACIAOgAiAC8AcwB0AGEAdABpAGMALwBqAHMALwBiAHUAbgBkAGwAZQAuADMAMQA3ADIAZAA4ADIAYQAuAGoAcwAiACwAIgBiAHIAbwB3AHMAZQByAE4AYQBtAGUAIgA6ACIASQBFACIALAAiAGIAcgBvAHcAcwBlAHIAVgBlAHIAcwBpAG8AbgAiADoAIgAxADEALgAwACIALAAiAG8AcwBOAGEAbQBlACIAOgAiAFcAaQBuAGQAbwB3AHMAIgAsACIAbwBzAFYAZQByAHMAaQBvAG4AIgA6ACIAMQAwACIALAAiAGQAZQB2AGkAYwBlAE0AbwBkAGUAbAAiADoAIgBEAEUAVgBJAEMARQBfAE0ATwBEAEUATABfAE0ASQBTAFMASQBOAEcAIgAsACIAZABlAHYAaQBjAGUAVgBlAG4AZABvAHIAIgA6ACIARABFAFYASQBDAEUAXwBWAEUATgBEAE8AUgBfAE0ASQBTAFMASQBOAEcAIgAsACIAZABlAHYAaQBjAGUAVAB5AHAAZQAiADoAIgBEAEUAVgBJAEMARQBfAFQAWQBQAEUAXwBNAEkAUwBTAEkATgBHACIAfQAsACIAbABvAGcAZwBlAHIAIgA6ACIAYwBvAG0AbQBvAG4ALQB1AHQAaQBsAHMAIgAsACIAbABvAGcATABlAHYAZQBsACIAOgAwACwAIgBsAG8AZwBNAGUAdABoAG8AZAAiADoAIgBEAEUAQgBVAEcAIgB9AA==</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="b8338f86-c590-424b-b2d6-1fb59db104af" Version="1.1" Url="https://qa-imali.moneycorp.com/corporate/tradableCurrencies" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Pragma" Value="no-cache" />
+        <Header Name="Expires" Value="-1" />
+        <Header Name="X-XSS-Protection" Value="1" />
+        <Header Name="X-Frame-Options" Value="SAMEORIGIN" />
+        <Header Name="ActiveClientId" Value="478773" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="1ce3edf8-4eb5-45df-a1a5-e6cb414453e1" Version="1.1" Url="https://qa-imali.moneycorp.com/corporate/tradableCurrencies" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Pragma" Value="no-cache" />
+        <Header Name="Expires" Value="-1" />
+        <Header Name="X-XSS-Protection" Value="1" />
+        <Header Name="X-Frame-Options" Value="SAMEORIGIN" />
+        <Header Name="ActiveClientId" Value="478773" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="4cc7365b-85a5-4551-ac1d-484896556683" Version="1.1" Url="https://qa-imali.moneycorp.com/corporate/clientFunds" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Pragma" Value="no-cache" />
+        <Header Name="Expires" Value="-1" />
+        <Header Name="X-XSS-Protection" Value="1" />
+        <Header Name="X-Frame-Options" Value="SAMEORIGIN" />
+        <Header Name="ActiveClientId" Value="478773" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="a4ec268d-d60c-4520-975d-c8eeb26505e9" Version="1.1" Url="https://qa-imali.moneycorp.com/corporate/associatedClientBalances" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Pragma" Value="no-cache" />
+        <Header Name="Expires" Value="-1" />
+        <Header Name="X-XSS-Protection" Value="1" />
+        <Header Name="X-Frame-Options" Value="SAMEORIGIN" />
+        <Header Name="ActiveClientId" Value="478773" />
+        <Header Name="DeviceSource" Value="browser_computer" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+    </Request>
+    <Request Method="POST" Guid="19c4211d-744a-4c69-beb0-1033abf95f40" Version="1.1" Url="https://qa-philayo.moneycorp.com/liverates/negotiate" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Content-Type" Value="text/plain;charset=UTF-8" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="activeclientid" Value="478773" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="token" Value="eyJhbGciOiJSUzI1NiIsImtpZCI6IlZfOFpIRGlLWnRObXhxd2N5OXMwWXVfMHJTMCIsInR5cCI6IkpXVCIsIng1dCI6IlZfOFpIRGlLWnRObXhxd2N5OXMwWXVfMHJTMCJ9.eyJuYmYiOjE2MDMyODU4NjcsImV4cCI6MTYwMzI4NjE2NywiaXNzIjoiaHR0cHM6Ly9xYS1pZHMubW9uZXljb3JwLmNvbSIsImF1ZCI6WyJodHRwczovL3FhLWlkcy5tb25leWNvcnAuY29tL3Jlc291cmNlcyIsImltYWxpX2FwaSIsIm1hbGlwb19hcGkiLCJwaGlsYXlvX2FwaSJdLCJjbGllbnRfaWQiOiJpbWFsaUNsaWVudCIsInN1YiI6ImMxMzFhMzZkLTQzY2UtZTkxMS05MTYzLTAwNTA1NjgwNjUwNyIsImF1dGhfdGltZSI6MTYwMzI4NTg2MCwiaWRwIjoibG9jYWwiLCJDbGllbnRJZCI6IjQ3ODc3MyIsIkNvbnRhY3RJZCI6IjYyMTU4OSIsIkFwcGxpY2F0aW9uU291cmNlIjoiMSIsIklzQ2xpZW50QXV0aG9yaXNlZCI6IlRydWUiLCJJc0NvcnBvcmF0ZSI6IkZhbHNlIiwiSXNBZHZhbmNlZCI6IlRydWUiLCJDcm1Db250YWN0SWQiOiJjMTMxYTM2ZC00M2NlLWU5MTEtOTE2My0wMDUwNTY4MDY1MDciLCJVc2VyTmFtZSI6IlBVc2VyMSIsIklzTUZBRW5hYmxlZCI6IkZhbHNlIiwic19oYXNoIjoibUk2QmlfbzVtSVhEUHJXNVotVHkyUSIsInNjb3BlIjpbIm9wZW5pZCIsInVzZXJfcHJvZmlsZSIsImltYWxpX2FwaSIsIm1hbGlwb19hcGkiLCJwaGlsYXlvX2FwaSJdLCJhbXIiOlsicHdkIl19.DZO0UIzZ-Z4mAXbnyeESXNeEDIbEcQXvkn5WrRCgr31eq62cMBy5nqSSjfCrHrmRnxdc78PyUjccOOnxeo1a01WSWN3uPnxp2mQ7iUEJBd7-lsRz7x9kmJebXeEFNtgWEB8Y1wMf5yVKeAN-UpbGFKnSgvoaLlO38MoarRGnSoWcXjr-VHBaCYotVIUbieiZYdqO_A9N4Io6Bxm5fdTYihzG_MGVBysKJyVnZjoxdKBvJ47A9XvEWuVXWSBw70VUpGu-7hCs5UlzIQftZuI2kQKkj_sAgqgTZpx4oBBcuwijhwPJGvfKLKiXzDDJEQXQxVtPctooG9N9aFSxXNqsBQ" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="negotiateVersion" Value="1" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="83048011-2976-4f75-af9f-55ae69f442f9" Version="1.1" Url="https://qa-philayo.moneycorp.com/liverates" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Origin" Value="https://qa-business.moneycorp.com" />
+        <Header Name="Sec-WebSocket-Key" Value="ikLu3ImB2LO9g3IqEAqshw==" />
+        <Header Name="Upgrade" Value="websocket" />
+        <Header Name="Sec-WebSocket-Version" Value="13" />
+        <Header Name="DNT" Value="1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="activeclientid" Value="478773" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="token" Value="eyJhbGciOiJSUzI1NiIsImtpZCI6IlZfOFpIRGlLWnRObXhxd2N5OXMwWXVfMHJTMCIsInR5cCI6IkpXVCIsIng1dCI6IlZfOFpIRGlLWnRObXhxd2N5OXMwWXVfMHJTMCJ9.eyJuYmYiOjE2MDMyODU4NjcsImV4cCI6MTYwMzI4NjE2NywiaXNzIjoiaHR0cHM6Ly9xYS1pZHMubW9uZXljb3JwLmNvbSIsImF1ZCI6WyJodHRwczovL3FhLWlkcy5tb25leWNvcnAuY29tL3Jlc291cmNlcyIsImltYWxpX2FwaSIsIm1hbGlwb19hcGkiLCJwaGlsYXlvX2FwaSJdLCJjbGllbnRfaWQiOiJpbWFsaUNsaWVudCIsInN1YiI6ImMxMzFhMzZkLTQzY2UtZTkxMS05MTYzLTAwNTA1NjgwNjUwNyIsImF1dGhfdGltZSI6MTYwMzI4NTg2MCwiaWRwIjoibG9jYWwiLCJDbGllbnRJZCI6IjQ3ODc3MyIsIkNvbnRhY3RJZCI6IjYyMTU4OSIsIkFwcGxpY2F0aW9uU291cmNlIjoiMSIsIklzQ2xpZW50QXV0aG9yaXNlZCI6IlRydWUiLCJJc0NvcnBvcmF0ZSI6IkZhbHNlIiwiSXNBZHZhbmNlZCI6IlRydWUiLCJDcm1Db250YWN0SWQiOiJjMTMxYTM2ZC00M2NlLWU5MTEtOTE2My0wMDUwNTY4MDY1MDciLCJVc2VyTmFtZSI6IlBVc2VyMSIsIklzTUZBRW5hYmxlZCI6IkZhbHNlIiwic19oYXNoIjoibUk2QmlfbzVtSVhEUHJXNVotVHkyUSIsInNjb3BlIjpbIm9wZW5pZCIsInVzZXJfcHJvZmlsZSIsImltYWxpX2FwaSIsIm1hbGlwb19hcGkiLCJwaGlsYXlvX2FwaSJdLCJhbXIiOlsicHdkIl19.DZO0UIzZ-Z4mAXbnyeESXNeEDIbEcQXvkn5WrRCgr31eq62cMBy5nqSSjfCrHrmRnxdc78PyUjccOOnxeo1a01WSWN3uPnxp2mQ7iUEJBd7-lsRz7x9kmJebXeEFNtgWEB8Y1wMf5yVKeAN-UpbGFKnSgvoaLlO38MoarRGnSoWcXjr-VHBaCYotVIUbieiZYdqO_A9N4Io6Bxm5fdTYihzG_MGVBysKJyVnZjoxdKBvJ47A9XvEWuVXWSBw70VUpGu-7hCs5UlzIQftZuI2kQKkj_sAgqgTZpx4oBBcuwijhwPJGvfKLKiXzDDJEQXQxVtPctooG9N9aFSxXNqsBQ" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+        <QueryStringParameter Name="id" Value="RLH_EKd8MPt49e7dajmCPA" RecordedValue="" CorrelationBinding="" UrlEncode="True" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+  </Items>
+</WebTest>
